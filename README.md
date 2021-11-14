@@ -1,2 +1,2 @@
 # odin-recipes
-My first assignement. I added a link to a separate HTML-document displaying a recipe for Pizza.
+My first assignement. I added a link to a separate HTML-document displaying a recipe for Tomato-tarte. Afterwards I added a second recipe for marble cake. Those documents I stiled according to the requirements.
