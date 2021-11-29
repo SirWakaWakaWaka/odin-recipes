@@ -13,3 +13,14 @@ h2 {
     color: rgb(255, 255, 255);
     text-align: center;
 }
+.button {
+    padding: 20px;
+    background-color:cornflowerblue;
+    border-radius: 2mm;
+    box-shadow: 0 0.05em 0.25em 0 slategrey;
+    display: inline-block;
+    color:rgb(255, 255, 255);
+    font-weight: bolder;
+    letter-spacing: 0.2mm;
+    text-decoration: none;
+}
